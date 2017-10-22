@@ -1,0 +1,20 @@
+{
+  "name": "webpack-resolve-alias-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "awesome-typescript-loader": "^3.2.3",
+    "rxjs": "^5.5.0",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
+  }
+}
